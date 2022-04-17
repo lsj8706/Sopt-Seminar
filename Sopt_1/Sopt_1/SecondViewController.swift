@@ -19,7 +19,7 @@ class SecondViewController: UIViewController {
     }
     
     /*
-     present - dismiss = model
+     present - dismiss = modal
      push - pop = navigation
      
     */
